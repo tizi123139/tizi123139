@@ -1,4 +1,4 @@
-👋 Hi, I’m @tizi123139 🤩
+##👋 Hi, I’m @tizi123139 🤩
 - 👀 I’m interested in listening to music，travelling🎊
 - 🌱 I’m currently learning computer 😯
 - 💞️ I’m looking to collaborate on ...
