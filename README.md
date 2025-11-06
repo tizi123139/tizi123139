@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @tizi123139 🤩
+👋 Hi, I’m @tizi123139 🤩
 - 👀 I’m interested in listening to music，travelling🎊
 - 🌱 I’m currently learning computer 😯
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 13677284669
 - 😄 Pronouns: warm,friend,food,optimistic 🥳😇🤠
 - ⚡ Fun fact: I like eating🥪🧀🍱🍙🥗🍔🍕🍟🌭🍿🍳🧇🥞🍞🥰😍😍
+
+---
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)
 
