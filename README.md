@@ -3,9 +3,9 @@
 
 ---
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)    ![GitHub Streak](https://streak-stats.demolab.com/?user=tizi123139)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)   ![GitHub Streak](https://streak-stats.demolab.com/?user=tizi123139)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139)
