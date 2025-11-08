@@ -1,18 +1,12 @@
-## 👋 Hi, I’m @tizi123139 🤩
-- 👀 I’m interested in listening to music，travelling🎊
-- 🌱 I’m currently learning computer 😯
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 13677284669
-- 😄 Pronouns: warm,friend,food,optimistic 🥳😇🤠
-- ⚡ Fun fact: I like eating🥪🧀🍱🍙🥗🍔🍕🍟🌭🍿🍳🧇🥞🍞🥰😍😍
+## 👋 Hi, I’m tizi 🤩
+
 
 ---
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)   ![GitHub Streak](https://streak-stats.demolab.com/?user=tizi123139)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tizi123139)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139)
 
