@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=tizi123139)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139)
 
 <!-- 使用SVG制作的动态语录 -->
