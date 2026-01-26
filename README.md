@@ -11,10 +11,9 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
-
-
+<div align="center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
- 
+</div>div>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
@@ -38,6 +37,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- 使用SVG制作的动态语录 -->
 <div align="center">
