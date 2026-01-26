@@ -3,6 +3,7 @@
 
 
 ---
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小吴同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 <picture align="center">
@@ -11,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
- <div align="center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
 
  <div align="center">
