@@ -47,6 +47,7 @@
 </picture>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<div align="center">
 <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 
 <!-- 使用SVG制作的动态语录 -->
