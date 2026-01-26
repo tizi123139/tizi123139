@@ -3,11 +3,12 @@
 
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小吴同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)  
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
-
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
