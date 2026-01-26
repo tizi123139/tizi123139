@@ -13,7 +13,7 @@
 
 <div align="center">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
-</div>div>
+</div>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
