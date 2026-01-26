@@ -5,7 +5,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小吴同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -15,7 +15,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
 
 
- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
@@ -47,7 +47,7 @@
 </picture>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 
 <!-- 使用SVG制作的动态语录 -->
 <div align="center">
