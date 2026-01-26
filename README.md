@@ -26,16 +26,16 @@
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,matlab,html,css,js,git,vscode,github&perline=9" />
-  
-  <!-- 添加技能动画卡片 - 改进布局 -->
-  
+
+
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+
 </div>
-
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139&theme=tokyo-night)
 
