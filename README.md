@@ -11,9 +11,11 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
-<div align="center">
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
-</div>
+
+
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
@@ -29,6 +31,12 @@
   
 </div>
 
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139&theme=tokyo-night)
 
 <picture>
@@ -38,6 +46,7 @@
 </picture>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 
 <!-- 使用SVG制作的动态语录 -->
 <div align="center">
