@@ -14,8 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tizi123139)            
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139)  
 
  <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
