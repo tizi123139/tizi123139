@@ -7,17 +7,10 @@
 ---
   ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tizi123139)
 
-- ...your top languages...:
 
   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tizi123139&langs_count=4)
 
-- ...and development time:
 
-  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=tizi123139&langs_count=6)](https://wakatime.com/@alan)
-
-- Pin more than 6 repos in your GitHub profile:
-
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=tizi123139&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
