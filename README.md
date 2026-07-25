@@ -17,7 +17,8 @@
 
  <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizi123139&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tizi123139)](https://github.com/stats-organization/github-stats-extended)
+
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
