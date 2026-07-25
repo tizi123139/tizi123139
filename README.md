@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=Yuanhao%20Zhong&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=KAKA%20LUOTE&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware" />
 </div>
@@ -7,9 +7,7 @@
 ---
 
 
-
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小吴同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
