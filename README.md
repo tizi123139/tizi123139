@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware" />
 </div>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tizi123139)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tizi123139)](https://github.com/stats-organization/github-stats-extended)]
 ---
 
 
