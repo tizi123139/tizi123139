@@ -26,7 +26,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,matlab,html,css,js,git,vscode,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,matlab,html,css,js,git,vscode,github,docker,linux&perline=9" />
 
   <br></br>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
