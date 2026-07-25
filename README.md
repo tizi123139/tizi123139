@@ -39,6 +39,8 @@
 
 </div>
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tizi123139&theme=tokyo-night)
 
 <picture>
