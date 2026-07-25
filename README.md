@@ -1,7 +1,10 @@
-<div align="center>
-# 👋 Hi, I’m tizi 🤩
-</div>
 
+# 👋 Hi, I’m tizi 🤩
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=Yuanhao%20Zhong&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=16" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware" />
+</div>
 
 ---
 
